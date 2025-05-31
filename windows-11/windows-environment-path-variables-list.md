@@ -4,12 +4,13 @@ Windows has aliases to various "Special Folders" useful for scripting, especiall
 
 - %AllUsersProfile% - Open the All User's Profile `C:\ProgramData`
 - %AppData% - Opens AppData folder `C:\Users\{username}\AppData\Roaming`
+- %OneDrive% - Opens OneDrive folder
 - %CommonProgramFiles% - `C:\Program Files\Common Files`
 - %CommonProgramFiles(x86)% - `C:\Program Files (x86)\Common Files`
 - %HomeDrive% - Opens your home drive C:\
 - %LocalAppData% - Opens local AppData folder `C:\Users\{username}\AppData\Local`
 - %ProgramData% - `C:\ProgramData`
-- %ProgramFiles% - `C:\Program Files or C:\Program Files (x86)`
+- %ProgramFiles% - `C:\Program Files`
 - %ProgramFiles(x86)% - `C:\Program Files (x86)`
 - %Public% - `C:\Users\Public`
 - %SystemDrive% - `C:`
