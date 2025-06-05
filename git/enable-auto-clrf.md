@@ -9,3 +9,13 @@ $ git config --global core.autocrlf true
 ```
 
 Source: https://stackoverflow.com/a/5834094/2449105
+
+---
+
+To turn off the warning about CRLF line endings, you can set the `core.safecrlf` option to false. This will allow you to commit files with mixed line endings without Git warning you about it.
+
+```bash
+$ git config --global core.safecrlf false
+```
+
+Source: https://stackoverflow.com/a/14640908/2449105
